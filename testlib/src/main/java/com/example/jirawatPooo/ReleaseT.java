@@ -1,4 +1,4 @@
 package com.example.jirawatPooo;
 
-public class DebugT {
+public class ReleaseT {
 }
